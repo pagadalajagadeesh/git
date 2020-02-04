@@ -1,6 +1,6 @@
 test
-localCommit
-test commit
+localCommits
+test commits
 git
 direct git
 
