@@ -1,2 +1,4 @@
 test
+localCommit
+test commit
 git
